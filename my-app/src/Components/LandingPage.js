@@ -12,18 +12,19 @@ class LandingPage extends Component{
                             alt="Avatar"
                             className="avatar-img"
                          />
-
                         <div className="banner-text">
-                            <h1>Sample React</h1>
+                            <h1>Full Satck Web Developer</h1>
                             <hr/>
-                            <p>Sample</p>
+                            <p>C# | Pyhton | React</p>
                             <div className="social-mediaIcon">
                                 <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a>
+                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                    <i className="fa fa-github-square" aria-hidden="true" />
+                                </a>
                             </div>
-                        </div>
-                        
+                        </div>                        
                     </Cell>
                 </Grid>
             </div>
