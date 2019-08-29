@@ -1,13 +1,40 @@
 .header-color{
     background: #00F260;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
 }
 .Landing-Grid{
     background: #667db6;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
 }
-.avatar-img{
-    
+.avatar-img{    
+    border: 3px solid black;
+    border-radius: 130px 130px 130px 130px;
+    margin-bottom: 30px;
+}
+.banner-text{  
+    opacity: .8;
+    background-color: black;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    border-radius:15px;
+}
+
+.banner-text h1{
+    color: white;
+}
+
+.banner-text hr{
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto;
+}
+
+.banner-text p{
+     color: white;
+     font-size: 20px;
+     padding: 1em;
 }
