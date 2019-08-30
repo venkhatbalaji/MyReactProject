@@ -13,14 +13,15 @@ class LandingPage extends Component{
                             className="avatar-img"
                          />
                         <div className="banner-text">
-                            <h1>Full Satck Web Developer</h1>
+                            <h1>Venkhat Balaji</h1>
                             <hr/>
-                            <p>C# | Pyhton | React</p>
+                            <p>Full Stack Web Developer
+                                C# | Python | React | MSSQL</p>
                             <div className="social-mediaIcon">
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://www.linkedin.com/in/venkhat-balaji-100002129/" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a>
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://github.com/venkhatbalaji" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
                             </div>
